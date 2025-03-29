@@ -49,8 +49,8 @@ This application allows users to upload one or multiple French audio files, tran
 
 ## Usage
 
-    ```bash
-    streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 
 
