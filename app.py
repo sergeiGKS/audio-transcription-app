@@ -42,7 +42,7 @@ if st.button("Transcrire"):
     st.info("Transcription en cours...")
 
     # Load the Whisper model (choose the desired size, e.g., "base", "small", "medium", etc.)
-    model = whisper.load_model("large")
+    model = whisper.load_model("small")
 
 
     # Create a new Word document
