@@ -46,12 +46,7 @@ This application allows users to upload one or multiple French audio files, tran
     ```bash
     conda install -c conda-forge ffmpeg
 
-
 ## Usage
 
    ```bash
    streamlit run app.py
-
-
-
-
